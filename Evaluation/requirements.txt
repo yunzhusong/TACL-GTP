@@ -1,0 +1,8 @@
+# Install manually
+pip install https://download.pytorch.org/whl/cu113/torch-1.11.0%2Bcu113-cp38-cp38-linux_x86_64.whl
+pip install pytorch_lightning==1.7.2
+pip install torchtext==0.12.0
+pip install tensorboardX==2.5.1
+pip install sacred==0.8.2
+
+pip install pandas toolz
